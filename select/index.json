@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Two of Us",
+  "base_artist": "go!go!vanillas",
+  "createdAt": "2025-12-03T23:28:45.600437Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Two of Us",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/01_Two_of_Us_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Just The Two Of Us (feat. Bill Withers)",
+      "artist": "Grover Washington, Jr. feat. Bill Withers",
+      "has_synced": true,
+      "path": "select/02_Just_The_Two_Of_Us_(feat._Bill_Withers)_Grover_Washington,_Jr._feat._Bill_Withers.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Just The Two Of Us (feat. Bill Withers)",
+      "artist": "Grover Washington, Jr., Bill Withers",
+      "has_synced": true,
+      "path": "select/03_Just_The_Two_Of_Us_(feat._Bill_Withers)_Grover_Washington,_Jr.,_Bill_Withers.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Just the Two of Us",
+      "artist": "Grover Washington, Jr.",
+      "has_synced": true,
+      "path": "select/04_Just_the_Two_of_Us_Grover_Washington,_Jr..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Just The Two Of Us (12'' Version)",
+      "artist": "Grover Washington Jr.",
+      "has_synced": true,
+      "path": "select/05_Just_The_Two_Of_Us_(12''_Version)_Grover_Washington_Jr..lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'll Say Good-Bye For The Two Of Us",
+      "artist": "Expose",
+      "has_synced": true,
+      "path": "select/06_I'll_Say_Good-Bye_For_The_Two_Of_Us_Expose.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Two of Us",
+      "artist": "The Charlatans",
+      "has_synced": true,
+      "path": "select/07_Two_of_Us_The_Charlatans.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Two of Us",
+      "artist": "The Charlatans UK",
+      "has_synced": true,
+      "path": "select/08_Two_of_Us_The_Charlatans_UK.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Two of Us",
+      "artist": "The Jesus and Mary Chain",
+      "has_synced": true,
+      "path": "select/09_The_Two_of_Us_The_Jesus_and_Mary_Chain.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Honey, This Mirror Isn't Big Enough for the Two of Us (Live At Starland Ballroom)",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/10_Honey,_This_Mirror_Isn't_Big_Enough_for_the_Two_of_Us_(Live_At_Starland_Ballroom_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Honey, This Mirror Isn't Big Enough for the Two of Us",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/11_Honey,_This_Mirror_Isn't_Big_Enough_for_the_Two_of_Us_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Two Of Us",
+      "artist": "*NSYNC",
+      "has_synced": true,
+      "path": "select/12_The_Two_Of_Us_NSYNC.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Two of Us",
+      "artist": "Sister Vanilla",
+      "has_synced": false,
+      "path": "select/13_The_Two_of_Us_Sister_Vanilla.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Two of Us",
+      "artist": "Supertramp",
+      "has_synced": true,
+      "path": "select/14_Two_of_Us_Supertramp.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Two of Us",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/15_Two_of_Us_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Just the Two of Us",
+      "artist": "Grover Washington Jr.",
+      "has_synced": true,
+      "path": "select/16_Just_the_Two_of_Us_Grover_Washington_Jr..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Two of Us",
+      "artist": "go!go!vanillas",
+      "has_synced": false,
+      "path": "select/pl_01_Two_of_Us_go!go!vanillas.txt"
+    }
+  ]
+}
